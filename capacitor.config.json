@@ -1,0 +1,11 @@
+{
+  "appId": "com.sk.mastery",
+  "appName": "Mastary Test",
+  "webDir": "www",
+  "backgroundColor": "#0a0820",
+  "server": { "androidScheme": "https" },
+  "android": {
+    "backgroundColor": "#0a0820",
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
